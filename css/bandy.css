@@ -1,0 +1,28 @@
+.bandy-navbar {
+    margin-bottom:0;
+    background: #1b5e20;
+    border: #000000;
+}
+
+.navbar .nav > li > a {
+    text-align: center;
+    color:  #ddd;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #006906;
+    color: white;
+}
+
+.bandy-container {
+    font-family: "Lato";
+    margin-left: 300px;
+}
+
+.footer {
+    background-color: #f5f5f5;
+    bottom: 0;
+    height: 60px;
+    position: absolute;
+    width: 100%;
+}
